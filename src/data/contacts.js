@@ -19,6 +19,12 @@ const contacts = [
         "https://www.dlf.pt/dfpng/middlepng/569-5693658_dummy-user-image-png-transparent-png.png",
       phone: "+977 9845678900",
       email: "carren@hotmail.com"
+    },
+    {
+      name: "Gigi hadid",
+      imgURL: "https://www.dlf.pt/dfpng/middlepng/569-5693658_dummy-user-image-png-transparent-png.png",
+      phone: "+986654565467",
+      email: "gigi@gmail.com"
     }
   ];
 
